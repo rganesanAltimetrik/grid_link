@@ -6,16 +6,16 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class SpringBootHelloWorldExampleApplication  extends SpringBootServletInitializer
+public class HelloWorldExampleApplication  extends SpringBootServletInitializer
 {
 	@Override
 	
 	    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 	
-	        return application.sources(SpringBootHelloWorldExampleApplication.class);
+	        return application.sources(HelloWorldExampleApplication.class);
 	   }
 	public static void main(String[] args) 
 {
-SpringApplication.run(SpringBootHelloWorldExampleApplication.class, args);
+SpringApplication.run(HelloWorldExampleApplication.class, args);
 }
 }

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springtest</groupId>
-	<artifactId>SpringBootHelloWorldExampleApplication</artifactId>
+	<artifactId>HelloWorldExampleApplication</artifactId>
 	<version>1</version>
-	<name>SpringBootHelloWorldExampleApplication</name>
+	<name>HelloWorldExampleApplication</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>war</packaging>
 	<properties>
@@ -63,7 +63,7 @@
 
             <version>3.2.3</version>
         	<configuration>
-         		 <warName>SpringBootHelloWorldExampleApplication</warName>
+         		 <warName>HelloWorldExampleApplication</warName>
        		 </configuration>
             <executions>
 
