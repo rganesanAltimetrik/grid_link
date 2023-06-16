@@ -1,7 +1,19 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\scripts",
+    "\\.github\\workflows",
+    "\\aws",
+    "\\aws\\scripts",
+    "\\cloudformation",
+    "\\spring-boot-hello-world-example",
+    "\\spring-boot-hello-world-example\\src",
+    "\\spring-boot-hello-world-example\\src\\main",
+    "\\spring-boot-hello-world-example\\src\\main\\java",
+    "\\spring-boot-hello-world-example\\src\\main\\java\\com",
+    "\\spring-boot-hello-world-example\\src\\main\\java\\com\\helloworld"
   ],
-  "SelectedNode": "\\D:\\Srijan\\sampledataapi",
+  "SelectedNode": "\\aws\\scripts\\after-install.sh",
   "PreviewInSolutionExplorer": false
 }
